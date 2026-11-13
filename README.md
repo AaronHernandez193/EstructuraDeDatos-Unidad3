@@ -3,7 +3,7 @@
 ## Datos del alumno
 Nombre: Aarón Eduardo Hernández Gutiérrez
 
-Número de control: 25410149
+Número de control: 25410137
 
 Carrera: Ingeniería en Sistemas Computacionales
 
